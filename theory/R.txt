@@ -1,0 +1,168 @@
+R programming laguage
+
+1.variable
+. containers fro string values
+. rules for variable declaration
+  * can be a letter or word , period(.)
+  * can't start with a number or under score
+  * keywords can't be used as a variable
+  * can't use any number after period
+.multiple declaration allowed
+eg: x <- y <- z <- 10
+
+
+2.data types
+.type can be determine by using class 
+ eg:class(age)
+. Types
+  * numeric
+    eg:2,2.1 ...
+  * integer
+    eg: 3L, 2L ...
+  * complex
+    eg: 4+8i , 4i ...
+  * character
+    eg: "malayalam" , "jhdshk" ...
+  * logical 
+    eg: TRUE , FALSE 
+    X <- TRUE
+ 
+3.operators
+ . arithmetic operators
+   * exponent
+     eg: a^b
+   * modulus
+     eg: a%%b
+   * to get the quotient
+     eg: a%/%b print exact value
+ . assignment operator
+   eg: x <- 10  '<-' assignment operator in R 
+ . logical operator
+   eg: && ,|| , !
+ . comparison operators
+
+4. descision making in R
+ * if , else if , else
+
+5. functions
+add <- function(x,y){
+  sum <- (x + y)
+  return(sum)
+}
+print(add(2,4))
+
+6. loops
+   * for , while
+
+7. Data structures
+   . vectors - create by using c() fn
+     eg: v <- c(1,2,3) 
+
+   . list - ordered , mutable , using list() fn
+     eg: n <- list(1,2,3) or list(first=1,second=2,third=3) # labeled
+    * accesing list by using n['second'] or n$second
+    * 1 %in% n to check 1 is present in n or not
+    * append()
+    * c() fn is used to join to join 2 or more list
+    * lapply() to apply a specific fnn to each and every elements in a list
+      n <- list(
+      first = c(1,2,3),
+      second = c(4,5,6),
+      third = c(7,8,9)
+      )
+      lapply(n, mean)
+    * Filter() fn apply specific fn to the entire list
+    * all() and any()
+      eg: all(number>0) return true if all the elemnts in the list satisfy the condition
+      eg: any(number>0) return true if any elements in the list satisfy the condition
+
+   . matrix - ctreate by using matrix()
+     * matrix(c(1,2,3,4,5,5),nrow=2,ncol=3)
+     * accessing m[row,col] id's
+     * to add columnn to a matric using cbind()
+       eg: rbind(m,c(7,8)) # to add row size 3
+       eg: cbind(m,c(7,8,9)) # to add col size 2
+     * join to matrix 
+       eg: cbind(m1,m2)
+     * to remove a row
+       eg: m1[-c(1),] # to remove row 
+       eg: m1[,-c(1)] # to remove col 
+     * dimention of a matrix using dim() fn
+       eg: dim(m1)
+
+    . array - create by using array() # collection of similar data type elements
+      eg: array(ar,dim=c(2,3,5))
+
+    . dataframe - create by using data.frame
+      eg: student <- data.frame(
+                          id = c(1:5),
+                          name = c('amal','arun','ajay','arjun','alwin'),
+                          rollno = c(21:25)
+                        )
+      * summary()
+      * add row by using rbind() add col by using cbind()
+      * remove by using (-c())
+      * ncol() , nrow() to find out the no of row and column
+
+    . factor - is a data structure used to store categorical values
+      eg: f <- c('m','f','e','m','e','m')
+          f1 <- factor(f)
+    . table() to count the frequency of levels
+    . which.max() to find the max value
+    . names() to get the names 
+
+8. graph
+   . plot(2,4) # point plot
+     * plot(2,4,main='myplot',xlab='x',ylab='y',ph=9,col='red',cex=4,type='l')
+       . main - title
+       . ph - marker 
+       . cex - marker size
+       . type - typr of plot ( line , scatter etc)
+   .x1 <- c(2,4,5,6,4,8,9,10)
+    y1 <- c(4,6,4,9,0,7,5,2)
+    plot(x1,y1,type='l',col='red',lwd=4,lty='dotted')
+        . lwd - line width 
+        . lty - line type
+
+   . lines(x2,y2,lwd=5,lty='dashed',col='blue') - line plot
+
+   . piechart
+       x <- c(10,25,25,40)
+       label <- c('a','b','c','d')
+       clr <- c('red','green','blue','brown')
+       pie(x,init.angle = 30,labels = label,col=clr)
+       legend('bottomright',label,fill = clr)
+
+   . barchart
+      x <- c('a','b','c','d')
+      y <- c(6,5,7,2)
+      barplot(y,names.arg = x)
+
+9. data loading
+   . data('iris') - inbuilt data set in R
+   . read.csv()
+   . read_excel()
+
+
+7. additional learn
+   . rep() - used to repeat values 'each= ' parameter 
+     eg:if v <- c(1,2,3) rep(v,times=c(2,3,4)) - to repeat n times each element
+   . strrep - for repeating string
+     eg: strrep("a",5)
+   . cat()- for concatinate
+     eg: cat(a,b,"\n")
+
+n <- 5
+t <- n
+for(i in 1:n){
+  space <- strrep(" ",t)
+  star <- strrep(" *",i)
+  t <- t-1
+  cat(space,star,"\n")
+}
+
+   . length() - to find the no of elements
+   . sort() - to sort 
+
+. install.packages('readxl')
+. library(readxl) - to import package and library

@@ -1,0 +1,197 @@
+DAY 1 
+
+🔹Statistics = The branch of mathematics that deals with collecting,
+  organizing, analyzing, and interpreting data to make decisions or understand patterns.
+
+🔹 Descriptive Statistics
+
+i.Descriptive
+
+👉 It describes and summarize data.
+Summarizes and organizes information.
+Examples: mean, median, mode, charts, percentages.
+📌 Example:
+“In a class of 50 students, the average mark is 70.”
+
+ii. Inferential Statistics
+
+👉 It predicts or makes conclusions from data.
+Uses a sample to guess about a larger population.
+Examples: hypothesis testing, confidence intervals, regression.
+📌 Example:
+“From a survey of 100 voters, we predict the winner of the election.”
+
+DAY 2 
+
+🔹 Statistical Data
+
+Data = information collected for analysis.
+Types:
+Qualitative (Categorical data) → words/labels
+Example: Gender (Male/Female), Blood group (A, B, O).
+Quantitative (Numerical data) → numbers
+Example: Height, Weight, Marks.
+Can be:
+Discrete (countable, e.g., number of students)
+Continuous (measurable, e.g., height, temperature)
+
+🔹 Statistical Measurements
+
+These are ways to summarize and understand data.
+Measures of Central Tendency → show the "center" of data
+Mean (average)
+Median (middle value)
+Mode (most frequent value)
+Measures of Dispersion (Spread) → show how data is spread out
+Range (max – min)
+Variance (average of squared differences from mean)
+Standard Deviation (SD) (spread of data around mean)
+Measures of Position → show relative standing
+Percentiles, Quartiles, Deciles
+
+🔹Scales of measurement
+
+1. Nominal Scale (Name only)
+Labels or categories (no order, no numbers).
+Example: Gender (Male/Female), Blood group (A, B, O).
+2. Ordinal Scale (Order matters)
+Categories with a ranking/order, but differences are not exact.
+Example: Position in a race (1st, 2nd, 3rd), Ratings (Good, Better, Best).
+3. Interval Scale (Order + equal gaps, no true zero)
+Numerical scale with equal intervals, but zero does not mean “nothing.”
+Example: Temperature in Celsius or Fahrenheit (0°C doesn’t mean no temperature).
+4. Ratio Scale (Order + equal gaps + true zero)
+Like interval scale, but has a true zero (zero = nothing).
+Example: Height, Weight, Age, Income.
+
+DAY 3 
+
+🔹Population vs Sampling 
+
+1. population - every data points in a group
+
+2. sample - is a subset of population
+
+🔹Sampling Techniques
+
+1.Random Sampling 🎲
+Every member has an equal chance of being chosen.
+Example: Picking names from a hat.
+
+2.Systematic Sampling 🔢
+Select every kth member from a list.
+Example: Choosing every 10th student in a roll list.
+
+3.Stratified Sampling 📊
+Divide the population into groups (strata) based on characteristics, then take samples from each group.
+Example: Sampling students by grade level.
+
+4.Cluster Sampling 🏘️
+Divide population into clusters (groups), then randomly select some clusters and study everyone in them.
+Example: Choosing a few schools and surveying all students there.
+
+5.Convenience Sampling 🛒
+Choosing the sample that is easy to reach.
+
+Example: Asking your friends for a survey.
+
+DAY 4 
+
+🔹variables and probability basics
+
+1. variables 
+. independent - cause 
+. dependent   - affect 
+. discrete    - countable
+. countinous  - measurable
+
+2. basic of probability 
+.probability - it is the chance of being occuring an event 
+.random experiments - has 2 or more outcomes , ooutput is unpredictable , experimenet is repetable
+.sample event/point - every points of a random experiments
+.sample space - set condaining all sample events/points of that random experiments
+.event - is a subset of random space 2 types simple(single outcome) and compount(multiple outcome)
+
+.sure events - that event is gonna surely happen
+eg- getting a white ball from the box containing only white balls
+
+.impossible events - that never gonna happen
+eg-getting a black ball from the box containing only white balls
+
+.uncertain events - happening is neither sure nor impossible , cannot predict
+eg-getting a black ball from the boxx containing both black and white ball
+
+.equally likely events - all events have same probability
+eg - tossing a coin both head and tail have 1/2 probability
+
+.mutually exclusive events - the possibility of one exclude the possibility if other
+.exhaustive events - atleast one of them will happen at any trail of the random experiment.
+
+.independent events - event is said to be independent the occuring of one will not affect other
+.depentend events - occuring of one will affect the other
+
+.complement of an event - tossing a coin event a is head then a comp is tail
+.union of 2 events - a or b
+.itersection of 2 events - a and b 
+.differnce of two events - only a
+
+DAY 5
+
+
+
+🔹hypothesys testing
+
+1. hypothesis - assumption about he characteristics of population. may be true or false
+
+2. null vs alternative hypothesis
+i. null hypothesis - the assumption is set to be true , (H0)
+ii.alternative hypothesis - other than null hypothesis (H1)
+
+eg - the population mean is 65
+     null hypothesis 'the population mean is 65'
+     alternative hypothesis 'the population mean is not 65'
+
+3. testig of hypothesis - process of accepting or rejecting hypothesis based on the random sample 
+                          drawn from the population
+  eg - z test , t test , f test, x2 test
+
+* procedure for testing hypothesis
+  1. setup null and alternative hypothesis
+  2. deside appropriate test(z test , t test , f test, x2 test)
+  3. specify level of significance[risk factor] (5% or 1%) 
+     levell of significance - prpobability of rejecting the null hypothesis when it is true
+  4. calculate the value
+  5. obtain the table value - corresponding to the level of significance and degree of freedom
+   degree of freedom - z test(infinite), t test(n-1)
+  6. make descision about accepting or rejecting null hypothesis
+    * computed value is less than table value accept 
+    * computed value is greater than table value reject
+
+4. type 1 and type 2 errors
+  * 4 possibilities of descision
+    - accept when true 
+    - reject when false 
+    - reject when true 
+    - accept when false
+here 1 & 2 are correct and 3 & 4 are errors 
+i. type 1 - reject when true 
+ii. type 2 - - accept when false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

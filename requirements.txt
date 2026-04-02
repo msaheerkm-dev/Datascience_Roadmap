@@ -1,0 +1,23 @@
+# Core Data Science
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+Tensorflow-keras
+cv2
+nltk
+
+# Jupyter / Notebook
+notebook
+ipykernel
+
+# Data Handling
+openpyxl
+
+# Optional (commonly used)
+scipy

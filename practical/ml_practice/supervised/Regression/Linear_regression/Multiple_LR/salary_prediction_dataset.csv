@@ -1,0 +1,1001 @@
+Age,Experience (Years),Education Level,City,Salary
+42,26,Bachelor,Mumbai,103987.3
+43,24,Master,Bangalore,113956.62
+44,26,Master,Kolkata,96754.89
+45,29,High School,Bangalore,80428.01
+46,26,Master,Kolkata,103601.09
+47,29,Bachelor,Delhi,91205.13
+48,30,Bachelor,Chennai,88230.75
+49,33,Bachelor,Delhi,98429.57
+50,29,PhD,Mumbai,163771.15
+51,31,Bachelor,Bangalore,110907.11
+52,36,Bachelor,Kolkata,98840.34
+53,33,Bachelor,Kolkata,92793.46
+54,34,High School,Bangalore,76103.46
+55,37,High School,Bangalore,87134.07
+56,37,High School,Mumbai,88971.71
+57,37,High School,Delhi,92681.23
+58,41,High School,Kolkata,89428.23
+59,41,High School,Mumbai,109847.83
+60,39,Bachelor,Delhi,112423.57
+61,42,High School,Mumbai,115310.11
+62,45,Bachelor,Kolkata,112483.73
+63,46,Master,Bangalore,164807.7
+64,43,Bachelor,Bangalore,126997.98
+65,46,Bachelor,Delhi,130904.22
+66,48,High School,Chennai,101447.89
+67,45,High School,Delhi,99818.28
+68,49,High School,Chennai,95786.66
+69,48,High School,Mumbai,125666.58
+70,53,Bachelor,Mumbai,167401.97
+71,53,High School,Kolkata,95931.23
+72,53,High School,Chennai,115001.51
+73,51,High School,Kolkata,90582.97
+74,52,Bachelor,Bangalore,144735.55
+75,55,High School,Chennai,119112.44
+76,56,Bachelor,Delhi,164936.94
+77,61,Bachelor,Bangalore,171629.52
+78,57,Bachelor,Bangalore,164350.15
+79,60,High School,Delhi,120766.68
+80,61,Master,Bangalore,214107.46
+21,5,Bachelor,Chennai,36946.47
+22,5,High School,Kolkata,26989.36
+23,6,Master,Bangalore,57726.29
+24,8,Master,Chennai,50829.27
+25,8,High School,Mumbai,39790.94
+26,6,Bachelor,Chennai,32451.09
+27,8,Master,Kolkata,49425.06
+28,12,Master,Chennai,66412.83
+29,10,High School,Delhi,41394.91
+30,8,High School,Kolkata,33197.88
+31,11,Bachelor,Mumbai,66204.61
+32,14,Bachelor,Delhi,53596.67
+33,13,Bachelor,Chennai,49053.61
+34,18,Bachelor,Kolkata,63744.79
+35,17,Bachelor,Mumbai,66700.19
+36,14,Master,Delhi,76356.5
+37,21,High School,Mumbai,61048.54
+38,17,Bachelor,Chennai,72929.07
+39,20,Master,Mumbai,105252.26
+40,18,Master,Bangalore,89144.22
+41,22,Bachelor,Delhi,85373.6
+42,25,Bachelor,Mumbai,91857.99
+43,22,High School,Chennai,53932.95
+44,23,Bachelor,Chennai,71627.73
+45,23,Bachelor,Mumbai,87779.8
+46,25,High School,Chennai,63555.58
+47,29,Bachelor,Kolkata,85019.76
+48,27,Bachelor,Kolkata,83457.11
+49,30,High School,Kolkata,55876.38
+50,31,Bachelor,Bangalore,102880.69
+51,35,High School,Mumbai,88709.18
+52,33,Bachelor,Bangalore,107393.56
+53,37,High School,Chennai,94720.82
+54,35,Master,Bangalore,140659.31
+55,37,Bachelor,Chennai,112462.32
+56,40,Bachelor,Chennai,124203.46
+57,37,Master,Delhi,144556.79
+58,41,Bachelor,Kolkata,103710.43
+59,37,High School,Chennai,76670.84
+60,41,Bachelor,Delhi,121691.78
+61,40,Bachelor,Kolkata,101161.47
+62,43,Master,Chennai,141097.39
+63,42,Bachelor,Chennai,119894.62
+64,47,High School,Bangalore,109929.43
+65,48,Bachelor,Bangalore,152365.58
+66,49,Bachelor,Kolkata,119741.18
+67,46,Bachelor,Chennai,128670.61
+68,49,Bachelor,Mumbai,154687.57
+69,52,Bachelor,Bangalore,157245.85
+70,52,PhD,Kolkata,195376.91
+71,55,Bachelor,Chennai,140712.04
+72,51,High School,Chennai,106082.64
+73,52,High School,Mumbai,129352.61
+74,55,High School,Kolkata,103776.37
+75,54,High School,Chennai,116329.48
+76,55,High School,Bangalore,115759.72
+77,60,High School,Mumbai,138786.29
+78,59,Bachelor,Kolkata,144248.94
+79,62,High School,Mumbai,143273.66
+80,64,Master,Bangalore,223922.36
+21,5,High School,Kolkata,15401.27
+22,5,Bachelor,Mumbai,60054.73
+23,7,Bachelor,Delhi,44248.91
+24,5,PhD,Bangalore,71969.78
+25,3,High School,Bangalore,27715.51
+26,9,Bachelor,Bangalore,54333.49
+27,9,PhD,Delhi,84509.6
+28,10,Master,Delhi,70229.03
+29,8,Master,Chennai,55297.73
+30,14,Bachelor,Mumbai,68613.73
+31,13,High School,Chennai,48467.83
+32,11,Bachelor,Mumbai,73351.22
+33,11,Master,Delhi,68121.41
+34,15,Bachelor,Delhi,73322.82
+35,16,Bachelor,Chennai,61712.93
+36,17,Bachelor,Kolkata,63909.8
+37,19,Master,Chennai,90865.78
+38,16,High School,Mumbai,55150.2
+39,21,Bachelor,Chennai,69909.61
+40,24,Bachelor,Bangalore,93086.95
+41,23,Bachelor,Mumbai,89447.22
+42,20,High School,Mumbai,60528.25
+43,21,High School,Kolkata,48080.2
+44,28,Bachelor,Delhi,90011.93
+45,23,Bachelor,Mumbai,96388.09
+46,24,Bachelor,Delhi,86295.21
+47,28,High School,Chennai,71778.29
+48,32,Bachelor,Bangalore,108186.9
+49,29,Bachelor,Kolkata,79580.8
+50,30,High School,Delhi,78235.51
+51,29,Bachelor,Mumbai,113227.27
+52,32,High School,Delhi,81122.52
+53,33,High School,Mumbai,92598.28
+54,32,PhD,Delhi,152564.73
+55,35,Bachelor,Mumbai,123584.09
+56,38,Master,Chennai,131418.79
+57,36,Bachelor,Mumbai,124939.86
+58,42,Bachelor,Mumbai,132068.67
+59,38,Master,Bangalore,139677.21
+60,38,Bachelor,Mumbai,129174.76
+61,42,Bachelor,Bangalore,126737.8
+62,46,Bachelor,Kolkata,116233.94
+63,41,Bachelor,Bangalore,126466.16
+64,45,Master,Chennai,154150.95
+65,44,Master,Bangalore,168163.04
+66,44,PhD,Kolkata,169683.66
+67,51,High School,Chennai,105052.78
+68,52,Master,Delhi,187595.11
+69,52,Master,Delhi,180335.42
+70,52,High School,Bangalore,116703.95
+71,51,High School,Bangalore,116212.56
+72,53,Master,Kolkata,158393.18
+73,56,Bachelor,Kolkata,131652.14
+74,54,Master,Mumbai,205089.85
+75,55,High School,Kolkata,98682.84
+76,54,Master,Mumbai,214444.6
+77,57,High School,Chennai,112900.47
+78,60,High School,Bangalore,131225.38
+79,63,High School,Chennai,129453.68
+80,63,Master,Kolkata,181808.04
+21,1,Bachelor,Chennai,33911.81
+22,0,Bachelor,Chennai,20896.03
+23,5,Bachelor,Chennai,38662.42
+24,3,Master,Kolkata,39594.48
+25,9,Bachelor,Chennai,48020.69
+26,10,Master,Mumbai,64535.41
+27,10,Bachelor,Kolkata,51515.56
+28,12,Bachelor,Chennai,50066.64
+29,9,Bachelor,Kolkata,45225.19
+30,8,Bachelor,Delhi,47879.82
+31,15,Master,Mumbai,93418.55
+32,16,Bachelor,Chennai,73857.44
+33,12,High School,Delhi,37248.18
+34,13,Master,Delhi,69435.43
+35,16,Bachelor,Kolkata,58145.46
+36,18,Bachelor,Delhi,64738.23
+37,17,Master,Mumbai,98550.91
+38,22,Bachelor,Mumbai,93786.86
+39,23,High School,Bangalore,68197.25
+40,18,Master,Mumbai,98942.91
+41,22,Bachelor,Delhi,86083.54
+42,24,Bachelor,Mumbai,88861.87
+43,24,High School,Kolkata,56326.34
+44,27,Master,Bangalore,112465.99
+45,27,Bachelor,Delhi,94897.08
+46,30,Bachelor,Bangalore,92233.29
+47,31,Master,Delhi,122219.58
+48,30,Master,Kolkata,105676.19
+49,33,High School,Bangalore,78662.54
+50,30,Bachelor,Chennai,89819.05
+51,33,High School,Delhi,80001.89
+52,33,Master,Chennai,127095.48
+53,35,High School,Bangalore,81835.65
+54,38,Bachelor,Chennai,105817.75
+55,35,Master,Chennai,133227.94
+56,36,Master,Bangalore,140715.12
+57,40,Bachelor,Kolkata,100112.3
+58,39,Master,Chennai,141803.42
+59,38,High School,Chennai,82259.02
+60,39,Master,Kolkata,130737.11
+61,43,High School,Chennai,89631.4
+62,45,Bachelor,Chennai,124327.03
+63,41,Master,Chennai,148164.86
+64,46,High School,Mumbai,114568.7
+65,48,High School,Kolkata,95780.27
+66,47,Master,Chennai,158952.26
+67,48,Master,Kolkata,157108.46
+68,49,Bachelor,Delhi,147626.39
+69,50,Bachelor,Delhi,135384.52
+70,51,Bachelor,Chennai,140606.22
+71,54,Bachelor,Kolkata,127217.98
+72,55,Bachelor,Kolkata,134207.53
+73,53,High School,Kolkata,99841.85
+74,53,Master,Mumbai,201683.06
+75,59,Bachelor,Delhi,167499.92
+76,57,Bachelor,Kolkata,138166.51
+77,55,Bachelor,Kolkata,131826.58
+78,62,Master,Mumbai,232849.45
+79,62,High School,Mumbai,147598.88
+80,58,Bachelor,Kolkata,141139.63
+21,-1,Bachelor,Bangalore,28235.12
+22,0,Bachelor,Kolkata,11837.4
+23,3,High School,Kolkata,24584.45
+24,7,Master,Mumbai,56232.59
+25,3,Master,Mumbai,49912.74
+26,7,Bachelor,Kolkata,32627.18
+27,9,Bachelor,Kolkata,36467.51
+28,6,Master,Kolkata,52575.61
+29,9,Master,Mumbai,68079.54
+30,14,High School,Kolkata,39016.69
+31,14,Bachelor,Kolkata,55712.62
+32,12,Bachelor,Chennai,52487.05
+33,11,Bachelor,Bangalore,67459.03
+34,17,Master,Delhi,82354.9
+35,17,Master,Bangalore,89185.63
+36,14,Master,Chennai,77014.71
+37,17,Bachelor,Delhi,76033.77
+38,17,High School,Kolkata,41789.97
+39,20,PhD,Chennai,107910.18
+40,24,Master,Kolkata,95972.96
+41,21,High School,Mumbai,71000.31
+42,25,Master,Chennai,106575.88
+43,21,Master,Mumbai,100276.48
+44,25,Bachelor,Chennai,89965.0
+45,23,Bachelor,Chennai,74127.96
+46,29,Bachelor,Mumbai,108276.46
+47,25,High School,Delhi,65383.89
+48,27,Bachelor,Bangalore,89987.59
+49,30,Master,Kolkata,96937.32
+50,31,High School,Chennai,64430.76
+51,34,Bachelor,Kolkata,92895.09
+52,36,Bachelor,Mumbai,117433.4
+53,32,Bachelor,Kolkata,82730.92
+54,34,Master,Mumbai,146589.82
+55,33,Bachelor,Kolkata,77155.96
+56,38,Bachelor,Bangalore,124014.9
+57,35,Master,Bangalore,127150.56
+58,36,Bachelor,Bangalore,115053.14
+59,39,High School,Bangalore,94275.1
+60,38,Bachelor,Bangalore,122810.31
+61,40,High School,Bangalore,95791.6
+62,41,High School,Mumbai,116039.54
+63,44,Bachelor,Chennai,124061.58
+64,47,Bachelor,Kolkata,122918.06
+65,49,Master,Bangalore,175902.69
+66,48,Bachelor,Mumbai,156083.78
+67,45,Bachelor,Mumbai,155612.85
+68,46,Bachelor,Mumbai,149221.52
+69,49,High School,Chennai,103811.17
+70,53,Bachelor,Kolkata,134254.27
+71,50,High School,Chennai,100788.85
+72,54,PhD,Delhi,221492.2
+73,54,High School,Mumbai,132577.87
+74,53,Bachelor,Delhi,153695.85
+75,58,High School,Bangalore,121642.77
+76,60,PhD,Bangalore,267351.1
+77,58,Bachelor,Chennai,156394.83
+78,62,Bachelor,Kolkata,135532.52
+79,59,High School,Delhi,120093.56
+80,60,Master,Kolkata,174020.86
+21,-1,High School,Chennai,19451.88
+22,6,Master,Bangalore,51964.33
+23,6,High School,Kolkata,25014.99
+24,6,High School,Kolkata,37357.41
+25,6,High School,Bangalore,34262.2
+26,5,Bachelor,Delhi,37637.28
+27,10,Bachelor,Bangalore,54394.15
+28,11,High School,Kolkata,39185.45
+29,9,Master,Delhi,61898.13
+30,14,Bachelor,Delhi,60266.36
+31,9,Bachelor,Bangalore,49009.92
+32,10,Bachelor,Kolkata,42189.35
+33,14,Bachelor,Chennai,55640.96
+34,14,Bachelor,Kolkata,54994.07
+35,18,High School,Mumbai,56129.1
+36,18,High School,Chennai,53666.35
+37,17,Master,Delhi,90784.97
+38,19,Master,Chennai,86988.54
+39,20,Bachelor,Delhi,72902.07
+40,20,Bachelor,Delhi,68259.37
+41,22,Bachelor,Chennai,83680.53
+42,22,Bachelor,Delhi,73384.91
+43,22,High School,Delhi,65192.81
+44,24,High School,Mumbai,75992.59
+45,29,Master,Kolkata,100416.16
+46,26,Bachelor,Kolkata,75385.11
+47,28,High School,Mumbai,71421.44
+48,32,High School,Chennai,76450.33
+49,30,High School,Bangalore,81099.63
+50,28,Bachelor,Bangalore,91274.6
+51,29,High School,Bangalore,75420.89
+52,36,High School,Mumbai,96389.31
+53,32,Master,Mumbai,144362.86
+54,32,High School,Delhi,78219.02
+55,35,Bachelor,Bangalore,104968.4
+56,37,High School,Chennai,80400.31
+57,35,High School,Chennai,80873.13
+58,36,High School,Bangalore,93007.64
+59,38,Master,Bangalore,144751.82
+60,44,Master,Bangalore,176058.25
+61,45,Master,Mumbai,172527.63
+62,45,Bachelor,Mumbai,145056.5
+63,42,Bachelor,Mumbai,139854.83
+64,44,High School,Kolkata,84996.25
+65,49,Bachelor,Chennai,127544.29
+66,47,Master,Chennai,161519.31
+67,46,High School,Delhi,104205.47
+68,46,High School,Mumbai,115939.81
+69,50,High School,Kolkata,96659.22
+70,51,High School,Kolkata,94381.12
+71,49,High School,Chennai,94763.19
+72,51,Bachelor,Mumbai,159501.8
+73,51,Bachelor,Delhi,145052.77
+74,57,Master,Mumbai,220253.72
+75,56,Master,Bangalore,199886.9
+76,58,Bachelor,Mumbai,183573.54
+77,59,Bachelor,Bangalore,166354.27
+78,58,Bachelor,Bangalore,167053.41
+79,63,Bachelor,Delhi,174037.96
+80,58,Bachelor,Chennai,152585.55
+21,-1,Bachelor,Mumbai,25048.38
+22,2,Bachelor,Bangalore,31072.56
+23,3,Bachelor,Mumbai,45559.26
+24,4,Bachelor,Chennai,44142.36
+25,6,Bachelor,Chennai,47346.42
+26,9,Master,Kolkata,54760.78
+27,5,Master,Chennai,42384.34
+28,9,High School,Delhi,38493.24
+29,9,Master,Bangalore,72131.28
+30,8,Bachelor,Kolkata,44692.44
+31,12,Master,Delhi,68882.61
+32,15,Master,Mumbai,91543.13
+33,14,Bachelor,Bangalore,57613.02
+34,17,High School,Chennai,46571.64
+35,15,Bachelor,Bangalore,60879.04
+36,19,Bachelor,Mumbai,84312.86
+37,15,Bachelor,Kolkata,58820.52
+38,18,Bachelor,Kolkata,60330.87
+39,17,High School,Kolkata,41135.35
+40,22,Master,Chennai,93181.25
+41,20,PhD,Delhi,112567.1
+42,25,Bachelor,Delhi,81981.65
+43,22,High School,Bangalore,65294.97
+44,23,Bachelor,Chennai,74145.04
+45,28,High School,Kolkata,54168.25
+46,26,Master,Kolkata,87679.43
+47,29,High School,Mumbai,74533.7
+48,26,Bachelor,Mumbai,100947.56
+49,30,Bachelor,Kolkata,85252.03
+50,28,Bachelor,Kolkata,81102.6
+51,32,Bachelor,Chennai,100178.66
+52,30,Master,Delhi,125559.79
+53,36,High School,Mumbai,93238.67
+54,36,High School,Delhi,87132.39
+55,36,High School,Chennai,73501.92
+56,40,Master,Kolkata,134893.55
+57,37,Master,Delhi,132695.84
+58,36,Bachelor,Kolkata,92649.59
+59,37,Bachelor,Kolkata,95161.45
+60,41,Bachelor,Bangalore,119508.65
+61,41,High School,Delhi,93887.88
+62,42,Master,Delhi,153789.52
+63,46,Bachelor,Kolkata,114752.93
+64,48,Bachelor,Chennai,123858.76
+65,48,Bachelor,Bangalore,153436.93
+66,49,High School,Kolkata,96246.15
+67,50,High School,Mumbai,136671.11
+68,51,Master,Mumbai,196694.45
+69,52,High School,Bangalore,122389.41
+70,52,Bachelor,Chennai,144036.37
+71,51,High School,Kolkata,95047.12
+72,55,Bachelor,Delhi,160292.75
+73,53,Bachelor,Bangalore,153192.95
+74,54,Bachelor,Chennai,142625.54
+75,54,Master,Delhi,168482.85
+76,58,Bachelor,Mumbai,182875.14
+77,60,Bachelor,Mumbai,179272.45
+78,56,Bachelor,Delhi,152726.39
+79,60,Bachelor,Bangalore,166468.9
+80,64,Master,Mumbai,239448.84
+21,-1,Master,Kolkata,31819.4
+22,4,High School,Delhi,29955.71
+23,4,High School,Delhi,33448.21
+24,6,Bachelor,Mumbai,55338.15
+25,5,Bachelor,Bangalore,41056.02
+26,7,High School,Kolkata,28107.16
+27,7,Bachelor,Bangalore,52368.64
+28,6,Bachelor,Chennai,46655.24
+29,7,Bachelor,Chennai,47317.95
+30,11,Master,Mumbai,71159.11
+31,12,High School,Mumbai,51513.28
+32,15,High School,Mumbai,55797.35
+33,15,Master,Chennai,80062.64
+34,17,Bachelor,Bangalore,68115.64
+35,17,Bachelor,Bangalore,62646.95
+36,19,Bachelor,Mumbai,85416.18
+37,17,High School,Kolkata,32708.16
+38,19,Master,Bangalore,89462.43
+39,17,Master,Chennai,74964.02
+40,22,Bachelor,Delhi,74085.33
+41,23,Bachelor,Delhi,77732.34
+42,20,Bachelor,Delhi,80836.87
+43,26,Bachelor,Kolkata,80802.78
+44,26,High School,Mumbai,75441.35
+45,29,Master,Chennai,117428.12
+46,26,High School,Kolkata,53688.51
+47,28,PhD,Chennai,130408.58
+48,26,Bachelor,Chennai,88687.98
+49,30,High School,Mumbai,87398.22
+50,34,Bachelor,Delhi,103843.68
+51,33,Master,Mumbai,138882.7
+52,34,Master,Kolkata,120898.66
+53,37,Master,Kolkata,112199.49
+54,32,Bachelor,Kolkata,85407.87
+55,35,Bachelor,Mumbai,123667.88
+56,35,Master,Chennai,136610.82
+57,35,High School,Chennai,81665.5
+58,37,Bachelor,Bangalore,120181.52
+59,43,High School,Kolkata,81653.08
+60,43,PhD,Chennai,188742.4
+61,40,Master,Bangalore,154126.55
+62,42,High School,Chennai,83357.68
+63,46,Master,Kolkata,146364.67
+64,43,Master,Delhi,160331.97
+65,49,High School,Kolkata,97516.83
+66,49,Bachelor,Mumbai,158181.64
+67,51,Master,Chennai,165059.12
+68,47,High School,Chennai,88004.08
+69,53,Bachelor,Mumbai,168940.27
+70,50,Bachelor,Mumbai,165959.71
+71,50,Master,Delhi,179777.66
+72,51,PhD,Chennai,216380.36
+73,52,Master,Chennai,172108.95
+74,52,Bachelor,Delhi,151947.32
+75,53,Master,Bangalore,195660.81
+76,54,Master,Delhi,183726.83
+77,57,Bachelor,Kolkata,140532.99
+78,61,Master,Chennai,193560.2
+79,63,High School,Mumbai,151550.12
+80,62,Bachelor,Kolkata,140404.42
+21,0,High School,Chennai,15888.94
+22,6,High School,Delhi,38641.04
+23,2,High School,Kolkata,27687.8
+24,4,Bachelor,Chennai,40348.06
+25,4,Bachelor,Bangalore,40999.84
+26,4,Master,Bangalore,37963.63
+27,9,High School,Mumbai,43175.62
+28,9,Bachelor,Chennai,50175.92
+29,8,Bachelor,Bangalore,47246.33
+30,14,Master,Delhi,71877.53
+31,9,Bachelor,Chennai,55127.1
+32,13,Bachelor,Delhi,58751.06
+33,15,Master,Delhi,80473.98
+34,15,Bachelor,Bangalore,70170.66
+35,13,High School,Chennai,38442.81
+36,19,High School,Kolkata,49466.04
+37,20,Master,Bangalore,102598.22
+38,19,High School,Bangalore,67296.12
+39,19,Master,Chennai,85559.68
+40,24,Bachelor,Chennai,78890.28
+41,25,Master,Delhi,107145.12
+42,23,Master,Chennai,97138.19
+43,22,PhD,Delhi,128833.79
+44,23,Bachelor,Bangalore,80038.04
+45,29,Master,Mumbai,130680.63
+46,30,Bachelor,Kolkata,78914.29
+47,30,Bachelor,Bangalore,96339.53
+48,28,Bachelor,Chennai,90542.87
+49,27,Master,Kolkata,100849.29
+50,29,PhD,Mumbai,161853.04
+51,35,Master,Mumbai,154660.47
+52,35,Bachelor,Delhi,113945.39
+53,35,Bachelor,Kolkata,103923.53
+54,37,Master,Delhi,139268.73
+55,34,High School,Bangalore,82001.18
+56,35,High School,Kolkata,67487.64
+57,40,Bachelor,Bangalore,119291.03
+58,36,Bachelor,Delhi,116878.9
+59,40,Bachelor,Kolkata,96424.52
+60,39,High School,Delhi,96363.74
+61,44,High School,Kolkata,81657.79
+62,46,High School,Delhi,98923.97
+63,46,PhD,Mumbai,230642.22
+64,44,Bachelor,Delhi,125051.73
+65,46,Bachelor,Mumbai,155069.9
+66,48,Bachelor,Delhi,146606.72
+67,45,High School,Kolkata,84212.84
+68,50,Master,Kolkata,149838.81
+69,50,Master,Kolkata,151183.4
+70,51,High School,Chennai,108855.28
+71,52,Bachelor,Bangalore,152112.58
+72,54,Master,Kolkata,168536.29
+73,57,Master,Mumbai,225173.12
+74,55,Bachelor,Kolkata,127322.69
+75,58,Bachelor,Chennai,155614.84
+76,58,High School,Mumbai,146701.7
+77,58,PhD,Chennai,232926.1
+78,61,High School,Mumbai,143478.68
+79,63,Master,Delhi,208039.82
+80,60,Bachelor,Bangalore,169064.62
+21,5,Bachelor,Bangalore,34557.74
+22,3,Bachelor,Chennai,28393.43
+23,5,High School,Bangalore,33387.37
+24,3,High School,Chennai,34517.99
+25,6,High School,Chennai,28833.2
+26,5,High School,Chennai,27036.21
+27,10,Master,Bangalore,75707.61
+28,8,Bachelor,Chennai,40218.71
+29,7,High School,Bangalore,28293.78
+30,14,PhD,Chennai,86057.42
+31,11,Master,Kolkata,55086.08
+32,13,Master,Chennai,60782.73
+33,12,PhD,Mumbai,98159.79
+34,18,High School,Chennai,56442.23
+35,14,Bachelor,Delhi,54865.23
+36,18,Master,Chennai,83157.89
+37,16,Bachelor,Mumbai,76339.68
+38,20,High School,Mumbai,64583.08
+39,22,Master,Bangalore,102688.46
+40,24,High School,Kolkata,56986.64
+41,25,High School,Chennai,59186.36
+42,20,Bachelor,Bangalore,85492.91
+43,24,Bachelor,Kolkata,79038.78
+44,26,Bachelor,Chennai,90319.56
+45,23,High School,Delhi,67743.38
+46,25,Master,Chennai,93325.1
+47,26,Bachelor,Mumbai,104340.31
+48,26,High School,Mumbai,79978.01
+49,33,Master,Delhi,120197.38
+50,29,PhD,Bangalore,151325.45
+51,34,Master,Kolkata,114983.97
+52,35,Master,Chennai,135921.59
+53,31,Bachelor,Mumbai,116008.62
+54,36,Bachelor,Bangalore,111117.17
+55,37,High School,Delhi,95301.94
+56,34,Bachelor,Mumbai,120208.9
+57,39,Bachelor,Delhi,116078.29
+58,42,Bachelor,Chennai,117054.41
+59,43,Master,Kolkata,127082.22
+60,42,Bachelor,Mumbai,139721.15
+61,44,High School,Mumbai,114287.43
+62,44,High School,Chennai,92673.08
+63,47,Bachelor,Bangalore,143282.26
+64,44,High School,Kolkata,81678.04
+65,46,Master,Mumbai,184415.36
+66,45,Bachelor,Kolkata,115332.7
+67,47,Bachelor,Mumbai,153893.3
+68,50,Bachelor,Kolkata,115472.67
+69,52,Master,Delhi,178124.97
+70,48,Bachelor,Mumbai,163867.31
+71,53,Bachelor,Kolkata,126887.77
+72,55,Bachelor,Bangalore,159979.04
+73,54,Bachelor,Delhi,150561.22
+74,56,Master,Delhi,199201.2
+75,59,Master,Bangalore,214771.84
+76,54,Bachelor,Kolkata,135337.65
+77,60,Master,Chennai,188733.79
+78,61,Master,Bangalore,215875.92
+79,62,Master,Kolkata,183639.71
+80,61,Master,Bangalore,210586.98
+21,3,Bachelor,Bangalore,33867.41
+22,3,Bachelor,Mumbai,49930.07
+23,2,Bachelor,Kolkata,28395.98
+24,3,Master,Chennai,51194.88
+25,7,High School,Mumbai,44635.47
+26,10,Master,Bangalore,69239.38
+27,8,Master,Bangalore,63702.66
+28,6,High School,Bangalore,27797.9
+29,12,Master,Kolkata,61833.87
+30,13,High School,Kolkata,46585.1
+31,13,Bachelor,Mumbai,70161.7
+32,16,Master,Chennai,78211.68
+33,12,High School,Mumbai,57959.69
+34,13,Master,Delhi,71754.8
+35,18,Master,Bangalore,87142.22
+36,18,Bachelor,Bangalore,74089.16
+37,18,High School,Bangalore,60232.34
+38,17,Bachelor,Mumbai,68306.03
+39,20,Bachelor,Mumbai,85924.34
+40,24,PhD,Bangalore,138451.73
+41,20,Bachelor,Mumbai,83151.79
+42,21,Bachelor,Kolkata,72484.82
+43,23,Bachelor,Kolkata,74055.93
+44,23,Bachelor,Mumbai,102811.92
+45,23,Master,Bangalore,100886.99
+46,28,High School,Mumbai,84753.55
+47,29,Master,Mumbai,126993.38
+48,29,Bachelor,Mumbai,99238.17
+49,33,PhD,Delhi,149672.35
+50,29,Bachelor,Kolkata,85241.62
+51,29,Bachelor,Chennai,91726.24
+52,33,Master,Chennai,119924.74
+53,33,High School,Delhi,71057.48
+54,35,Master,Mumbai,147348.07
+55,36,Bachelor,Delhi,110650.47
+56,35,High School,Delhi,87340.85
+57,37,Bachelor,Bangalore,117697.32
+58,39,Master,Kolkata,126860.3
+59,37,High School,Chennai,81169.34
+60,38,Bachelor,Mumbai,138876.12
+61,43,Bachelor,Chennai,115743.75
+62,42,Bachelor,Chennai,115193.81
+63,43,High School,Kolkata,82038.21
+64,46,Master,Chennai,159353.52
+65,46,PhD,Chennai,190605.7
+66,46,PhD,Delhi,205378.59
+67,45,Master,Kolkata,140824.55
+68,46,High School,Bangalore,103328.21
+69,48,Master,Mumbai,193009.9
+70,50,High School,Chennai,99460.93
+71,52,High School,Mumbai,121814.63
+72,54,Bachelor,Bangalore,158058.03
+73,55,Bachelor,Mumbai,164926.22
+74,55,Master,Bangalore,186075.99
+75,59,Bachelor,Delhi,164871.67
+76,59,Bachelor,Chennai,160399.85
+77,56,Bachelor,Bangalore,159905.98
+78,60,PhD,Mumbai,282659.65
+79,59,Bachelor,Chennai,160182.68
+80,59,Bachelor,Delhi,156479.81
+21,1,High School,Chennai,16833.14
+22,6,Master,Bangalore,59218.18
+23,1,Bachelor,Delhi,32187.69
+24,3,High School,Mumbai,37174.38
+25,7,High School,Delhi,24373.67
+26,5,Bachelor,Delhi,34109.13
+27,6,Bachelor,Kolkata,37771.66
+28,7,Bachelor,Delhi,47685.87
+29,12,PhD,Delhi,91634.99
+30,9,High School,Chennai,37724.09
+31,11,Bachelor,Mumbai,62508.28
+32,10,Master,Chennai,59652.99
+33,17,Bachelor,Chennai,73019.52
+34,15,Bachelor,Bangalore,60784.88
+35,14,Bachelor,Chennai,60425.1
+36,18,Bachelor,Kolkata,56160.96
+37,16,PhD,Kolkata,90673.89
+38,20,Bachelor,Bangalore,72814.91
+39,19,Master,Mumbai,104599.08
+40,22,High School,Mumbai,69460.52
+41,22,High School,Chennai,67023.2
+42,20,High School,Chennai,53594.9
+43,25,Bachelor,Chennai,84349.83
+44,26,Bachelor,Mumbai,95811.72
+45,23,Master,Delhi,98840.53
+46,27,Bachelor,Kolkata,79178.75
+47,26,PhD,Delhi,128063.9
+48,30,High School,Delhi,67661.88
+49,27,Master,Mumbai,128839.3
+50,30,Master,Delhi,118869.57
+51,29,Master,Bangalore,118955.37
+52,32,Master,Chennai,115995.07
+53,34,Master,Bangalore,132827.56
+54,33,Bachelor,Kolkata,90912.75
+55,33,High School,Chennai,78675.18
+56,40,High School,Delhi,81539.46
+57,41,Master,Kolkata,137464.17
+58,41,Bachelor,Chennai,123253.5
+59,41,Master,Delhi,138306.73
+60,41,Bachelor,Bangalore,132569.63
+61,39,High School,Chennai,91626.09
+62,46,High School,Delhi,102352.23
+63,45,Bachelor,Bangalore,130014.16
+64,48,Bachelor,Kolkata,124676.14
+65,43,High School,Kolkata,83293.84
+66,46,Bachelor,Kolkata,118444.39
+67,45,High School,Kolkata,98596.01
+68,51,Bachelor,Mumbai,164344.18
+69,47,Bachelor,Chennai,124830.58
+70,48,Master,Chennai,160241.35
+71,54,Bachelor,Mumbai,166742.77
+72,53,Bachelor,Delhi,150919.95
+73,51,High School,Delhi,106944.66
+74,57,High School,Kolkata,103135.74
+75,57,Bachelor,Bangalore,158157.85
+76,56,Bachelor,Delhi,154819.56
+77,57,Bachelor,Bangalore,165463.77
+78,56,Bachelor,Chennai,135296.06
+79,60,Bachelor,Bangalore,172897.87
+80,61,Master,Chennai,196011.5
+21,3,Master,Mumbai,47135.04
+22,0,High School,Mumbai,36143.14
+23,3,Bachelor,Kolkata,36642.38
+24,5,High School,Delhi,26142.99
+25,3,High School,Kolkata,28691.18
+26,10,PhD,Chennai,83222.49
+27,8,High School,Kolkata,32660.1
+28,11,Bachelor,Bangalore,58747.21
+29,13,Bachelor,Chennai,58176.73
+30,11,Master,Mumbai,65490.92
+31,11,Bachelor,Delhi,53633.15
+32,11,High School,Chennai,38955.44
+33,17,Bachelor,Chennai,72215.78
+34,16,Bachelor,Bangalore,70308.64
+35,17,High School,Delhi,50836.95
+36,16,Bachelor,Mumbai,73909.38
+37,18,High School,Chennai,56816.93
+38,16,High School,Chennai,47477.08
+39,20,Bachelor,Bangalore,74509.02
+40,20,High School,Kolkata,48621.49
+41,23,Bachelor,Mumbai,96808.48
+42,23,Bachelor,Delhi,83958.32
+43,25,Master,Chennai,101421.34
+44,28,High School,Chennai,69157.7
+45,23,High School,Mumbai,68051.29
+46,30,High School,Kolkata,64030.25
+47,29,Bachelor,Chennai,87488.48
+48,30,Master,Mumbai,133726.1
+49,28,High School,Bangalore,81130.89
+50,29,Master,Kolkata,96210.64
+51,35,High School,Delhi,79931.41
+52,35,Bachelor,Chennai,97403.51
+53,37,Master,Mumbai,149685.46
+54,33,Master,Bangalore,132506.14
+55,37,Master,Delhi,135831.95
+56,36,Master,Mumbai,162728.44
+57,41,Bachelor,Mumbai,136320.77
+58,40,Master,Delhi,153646.98
+59,39,High School,Bangalore,99040.03
+60,40,Master,Bangalore,152555.23
+61,40,Bachelor,Kolkata,114550.68
+62,46,Master,Chennai,157982.67
+63,44,Bachelor,Delhi,136135.05
+64,42,Bachelor,Delhi,131067.98
+65,44,Bachelor,Delhi,130643.24
+66,45,Master,Bangalore,171755.65
+67,48,High School,Chennai,104320.36
+68,46,High School,Kolkata,83278.69
+69,51,High School,Mumbai,125736.45
+70,53,High School,Mumbai,134721.24
+71,55,Master,Delhi,196230.93
+72,55,High School,Chennai,109146.8
+73,55,PhD,Bangalore,248644.16
+74,53,Bachelor,Chennai,143039.35
+75,53,High School,Chennai,108860.63
+76,55,Master,Bangalore,198580.01
+77,57,Bachelor,Delhi,158812.49
+78,57,Bachelor,Chennai,153572.04
+79,58,Bachelor,Mumbai,188038.58
+80,62,Master,Bangalore,220880.64
+21,3,High School,Kolkata,26052.96
+22,4,PhD,Delhi,69123.13
+23,6,PhD,Bangalore,75149.65
+24,4,Bachelor,Kolkata,33338.01
+25,7,High School,Kolkata,24414.4
+26,4,Bachelor,Chennai,32240.85
+27,10,High School,Chennai,43166.16
+28,9,High School,Chennai,33698.44
+29,7,Bachelor,Bangalore,42539.72
+30,14,Bachelor,Bangalore,60169.57
+31,15,Master,Delhi,74763.08
+32,10,Master,Chennai,65853.24
+33,15,Master,Kolkata,67216.29
+34,15,Bachelor,Mumbai,64963.13
+35,16,Bachelor,Delhi,65935.22
+36,19,Bachelor,Bangalore,76771.33
+37,18,PhD,Delhi,105703.32
+38,22,High School,Delhi,66729.43
+39,19,Master,Delhi,87135.31
+40,22,Bachelor,Delhi,84776.69
+41,22,Bachelor,Mumbai,92553.91
+42,25,Master,Chennai,105833.03
+43,27,Bachelor,Kolkata,73157.25
+44,24,Master,Delhi,103531.55
+45,24,Master,Delhi,102775.86
+46,25,Bachelor,Delhi,78852.47
+47,27,Bachelor,Chennai,92040.3
+48,32,Bachelor,Bangalore,101993.0
+49,32,Master,Bangalore,127512.16
+50,30,High School,Mumbai,79433.42
+51,33,Bachelor,Bangalore,111925.93
+52,34,Bachelor,Delhi,98515.35
+53,32,Master,Delhi,128209.37
+54,35,High School,Delhi,88597.57
+55,38,Master,Mumbai,162845.89
+56,35,Master,Delhi,136963.14
+57,38,High School,Bangalore,96197.73
+58,39,High School,Chennai,81602.88
+59,41,PhD,Chennai,186473.67
+60,44,High School,Kolkata,83699.62
+61,39,Master,Bangalore,150388.06
+62,46,Bachelor,Delhi,131391.81
+63,41,High School,Chennai,92107.71
+64,44,Master,Bangalore,162429.81
+65,47,Bachelor,Chennai,129749.58
+66,47,Bachelor,Delhi,129120.78
+67,50,Bachelor,Chennai,141673.33
+68,46,Bachelor,Kolkata,119053.7
+69,53,High School,Kolkata,98038.7
+70,51,Bachelor,Chennai,135649.25
+71,49,PhD,Bangalore,227623.14
+72,50,Bachelor,Bangalore,144663.53
+73,51,Bachelor,Bangalore,151166.83
+74,57,Bachelor,Chennai,156671.99
+75,57,Master,Bangalore,198503.71
+76,59,High School,Delhi,126618.0
+77,56,PhD,Kolkata,209578.63
+78,59,Bachelor,Delhi,161720.82
+79,61,High School,Bangalore,131281.05
+80,62,High School,Delhi,136023.99
+21,3,High School,Bangalore,26412.16
+22,6,Bachelor,Chennai,32409.81
+23,5,Bachelor,Delhi,44315.17
+24,7,Master,Chennai,47673.48
+25,7,Bachelor,Chennai,47074.41
+26,6,High School,Mumbai,44374.52
+27,8,Bachelor,Bangalore,53068.75
+28,10,Master,Kolkata,61357.06
+29,10,High School,Bangalore,52100.25
+30,10,High School,Kolkata,39833.8
+31,11,High School,Bangalore,45452.87
+32,13,Master,Chennai,77689.74
+33,11,Bachelor,Delhi,63341.38
+34,13,Bachelor,Delhi,67896.36
+35,19,Master,Mumbai,98419.28
+36,14,Master,Kolkata,58829.91
+37,15,Bachelor,Kolkata,52484.04
+38,21,Master,Kolkata,85918.21
+39,23,High School,Chennai,60745.79
+40,24,High School,Kolkata,54967.6
+41,19,Bachelor,Delhi,75309.91
+42,24,High School,Chennai,54245.97
+43,26,Bachelor,Bangalore,92745.85
+44,27,Master,Kolkata,102392.29
+45,25,High School,Kolkata,60246.58
+46,30,High School,Bangalore,81459.05
+47,25,Bachelor,Kolkata,82736.86
+48,28,Master,Bangalore,118709.28
+49,30,Bachelor,Chennai,89684.54
+50,29,Bachelor,Delhi,100880.08
+51,34,High School,Bangalore,91055.6
+52,33,High School,Mumbai,93141.46
+53,34,PhD,Bangalore,169598.14
+54,36,PhD,Kolkata,148006.9
+55,34,High School,Chennai,71716.14
+56,37,PhD,Chennai,171664.73
+57,38,Bachelor,Bangalore,125508.26
+58,37,Master,Delhi,132361.59
+59,38,Bachelor,Mumbai,134468.16
+60,41,Bachelor,Chennai,118565.51
+61,40,Bachelor,Kolkata,98890.13
+62,43,Bachelor,Kolkata,103820.0
+63,44,High School,Delhi,100767.47
+64,46,High School,Chennai,95911.48
+65,43,Bachelor,Bangalore,140919.74
+66,47,Master,Kolkata,149562.99
+67,47,High School,Delhi,106443.47
+68,51,Bachelor,Chennai,140610.4
+69,53,PhD,Chennai,225554.34
+70,48,High School,Chennai,105432.59
+71,49,Bachelor,Chennai,136203.83
+72,50,Bachelor,Chennai,130948.69
+73,55,Master,Kolkata,179309.73
+74,55,High School,Delhi,112359.09
+75,57,Bachelor,Chennai,149302.29
+76,57,Master,Mumbai,211166.36
+77,59,Master,Mumbai,228373.99
+78,60,Bachelor,Delhi,165205.55
+79,62,Bachelor,Bangalore,180106.38
+80,60,Bachelor,Bangalore,162904.67
+21,3,Master,Bangalore,52604.53
+22,5,Bachelor,Mumbai,42437.82
+23,2,High School,Bangalore,26854.97
+24,4,Master,Kolkata,46257.86
+25,7,Bachelor,Chennai,44921.33
+26,10,Bachelor,Mumbai,60809.71
+27,5,High School,Delhi,35620.89
+28,7,Bachelor,Delhi,47741.45
+29,8,Bachelor,Chennai,44054.46
+30,13,Bachelor,Mumbai,65922.65
+31,10,High School,Bangalore,43059.39
+32,12,Bachelor,Bangalore,54802.22
+33,15,PhD,Kolkata,89980.04
+34,16,High School,Kolkata,45443.27
+35,19,PhD,Bangalore,116773.88
+36,14,Bachelor,Delhi,67257.48
+37,20,Master,Delhi,91399.43
+38,16,Master,Kolkata,69487.9
+39,18,Bachelor,Chennai,64786.86
+40,24,Master,Bangalore,109235.34
+41,19,Master,Kolkata,79142.25
+42,22,Bachelor,Kolkata,65568.58
+43,25,Bachelor,Bangalore,88811.53
+44,23,Bachelor,Bangalore,81721.99
+45,29,Master,Delhi,113315.66
+46,24,Master,Chennai,89910.51
+47,30,Master,Chennai,113245.45
+48,28,Bachelor,Bangalore,88208.93
+49,29,Master,Mumbai,129765.92
+50,28,High School,Kolkata,58936.53
+51,33,Bachelor,Kolkata,95609.48
+52,30,High School,Bangalore,72925.33
+53,32,Bachelor,Mumbai,111114.07
+54,32,Bachelor,Delhi,99752.38
+55,35,Bachelor,Bangalore,110199.28
+56,40,Bachelor,Bangalore,131646.27
+57,35,Bachelor,Kolkata,88557.16
+58,40,Bachelor,Bangalore,122902.98
+59,43,High School,Bangalore,103060.33
+60,43,Bachelor,Bangalore,136225.92
+61,42,High School,Kolkata,81098.79
+62,40,High School,Delhi,82409.5
+63,45,Bachelor,Delhi,130061.98
+64,48,Bachelor,Bangalore,150280.14
+65,47,Bachelor,Kolkata,119060.94
+66,49,Bachelor,Delhi,140964.59
+67,47,Bachelor,Delhi,129982.41
+68,50,Master,Delhi,168971.64
+69,53,Bachelor,Kolkata,129440.21
+70,52,Bachelor,Kolkata,120268.11
+71,53,High School,Bangalore,123306.81
+72,54,Bachelor,Chennai,140196.77
+73,52,Bachelor,Delhi,146386.71
+74,53,Bachelor,Chennai,132856.17
+75,55,Bachelor,Kolkata,131280.99
+76,54,Bachelor,Kolkata,125370.7
+77,59,Bachelor,Kolkata,129440.22
+78,61,Master,Chennai,198949.21
+79,57,Master,Kolkata,177005.8
+80,63,Master,Bangalore,225487.37
+21,-1,PhD,Kolkata,40408.45
+22,2,High School,Mumbai,27829.39
+23,5,High School,Chennai,34279.45
+24,6,High School,Mumbai,43819.27
+25,6,Bachelor,Kolkata,38384.11
+26,9,Master,Bangalore,58398.2
+27,5,High School,Delhi,29128.08
+28,6,Master,Kolkata,54913.48
+29,8,High School,Bangalore,38026.28
+30,11,Master,Chennai,47616.22
+31,15,Bachelor,Mumbai,64480.38
+32,16,High School,Mumbai,55077.76
+33,12,Bachelor,Mumbai,69399.13
+34,13,Bachelor,Chennai,55119.39
+35,14,Bachelor,Bangalore,69232.16
+36,19,Bachelor,Chennai,66724.19
+37,20,Master,Mumbai,94178.54
+38,18,Bachelor,Kolkata,58642.19
+39,19,Bachelor,Delhi,74232.23
+40,19,Bachelor,Chennai,70664.75
+41,22,Master,Chennai,87004.46
+42,20,Bachelor,Bangalore,76244.02
+43,26,Bachelor,Bangalore,105463.37
+44,25,High School,Chennai,57083.66
+45,27,High School,Mumbai,81953.62
+46,29,Bachelor,Delhi,84449.12
+47,30,High School,Bangalore,82318.96
+48,28,Bachelor,Mumbai,100318.37
+49,27,Master,Kolkata,98810.44
+50,28,High School,Bangalore,67942.37
+51,35,Bachelor,Mumbai,123979.26
+52,36,Bachelor,Mumbai,120516.75
+53,37,PhD,Delhi,170074.76
+54,38,Bachelor,Delhi,117324.93
+55,37,Master,Kolkata,118648.07
+56,38,Bachelor,Mumbai,132031.91
+57,40,High School,Mumbai,103045.79
+58,37,Bachelor,Delhi,113209.97
+59,39,PhD,Bangalore,190625.43
+60,40,Bachelor,Bangalore,123049.91
+61,45,Master,Chennai,149019.75
+62,45,Master,Delhi,158338.44
+63,44,High School,Chennai,100575.7
+64,43,High School,Delhi,97755.87
+65,48,Bachelor,Kolkata,115375.51
+66,45,Bachelor,Mumbai,149882.8
+67,46,Master,Kolkata,144741.58
+68,47,Master,Delhi,169120.0
+69,52,Bachelor,Mumbai,160730.81
+70,54,High School,Bangalore,117788.05
+71,51,Master,Bangalore,181895.85
+72,52,Bachelor,Chennai,138336.76
+73,57,Master,Delhi,196814.6
+74,53,Bachelor,Delhi,150233.42
+75,56,Bachelor,Bangalore,164116.08
+76,54,High School,Kolkata,107770.1
+77,60,Bachelor,Mumbai,189344.45
+78,56,Bachelor,Kolkata,134490.99
+79,63,Bachelor,Kolkata,142930.57
+80,61,High School,Bangalore,130227.26
+21,4,Master,Bangalore,48611.47
